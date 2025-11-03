@@ -4,10 +4,10 @@
 Aplicación de escritorio desarrollada en C# con Windows Forms que permite gestionar una lista de tareas con operaciones CRUD completas (Crear, Leer, Actualizar, Eliminar) conectada a una base de datos MySQL.
 
 ## Características
-- ? **Alta de Tareas**: Agregar nuevas tareas con nombre, descripción y estado
-- ? **Baja de Tareas**: Eliminar tareas existentes
-- ? **Modificación de Tareas**: Actualizar información de tareas
-- ? **Consultas**:
+- **Alta de Tareas**: Agregar nuevas tareas con nombre, descripción y estado
+- **Baja de Tareas**: Eliminar tareas existentes
+- **Modificación de Tareas**: Actualizar información de tareas
+- **Consultas**:
   - Ver todas las tareas
   - Filtrar tareas completadas
   - Filtrar tareas pendientes
