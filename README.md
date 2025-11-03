@@ -89,13 +89,7 @@ La tabla `tareas` contiene:
 
 ## Autor
 **Carlos Saul Arenas Maciel**  
-Fecha: 21/09/2025
-
-## Licencia
-Este proyecto es de código abierto y está disponible bajo la licencia MIT.
-
-## Capturas de Pantalla
-_Agrega aquí capturas de pantalla de tu aplicación_
+Fecha: 03/11/2025
 
 ## Notas
 - Este proyecto fue desarrollado como parte de un trabajo académico
